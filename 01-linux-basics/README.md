@@ -7,3 +7,11 @@
 - Storage
 - Operating System
 - Linux Introduction
+
+## Commands Learned
+
+- pwd
+- ls
+- cd
+- whoami
+- id
