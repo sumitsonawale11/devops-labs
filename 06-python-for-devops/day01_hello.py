@@ -1,0 +1,7 @@
+print("Hello, DevOps!")
+print("My name is Sumit")
+print("I am becoming a AI/MLOp Engineer")
+print(10)
+print(10 + 20)
+print("10" + "20")
+print("10" + 20)
